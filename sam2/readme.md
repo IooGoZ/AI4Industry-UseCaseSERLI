@@ -14,10 +14,11 @@ Avant de continuer assurez vous que Sam 2 et ses dépendances sont correctement 
 Pour lancer notre programme il vous faudra mettre en place votre dataset et changer le chemin des fichiers dans **our_samprog.ipynb**. Les images du dataset devront être sous le format jpeg.
 
 Le dataset est une vidéo décrit sous la forme d'une liste d'image jpeg.
-<img width="564" alt="segmentationsam" src="https://github.com/user-attachments/assets/99bdfbe0-ce6e-42c2-a48a-46b4a3ca998f" />
 
 Dans **our_samprog.ipynb**, il faut modifier cette ligne pour placer le point qui permettra de segmenter la forme pointé sur la premiere image : 
 > points = np.array([[550, 200]], dtype=np.float32)
+
+<img width="564" alt="segmentationsam" src="https://github.com/user-attachments/assets/99bdfbe0-ce6e-42c2-a48a-46b4a3ca998f" />
 
 Suite à cela, le prompt sera propager sur les prochaines images de votre 
 
