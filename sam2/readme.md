@@ -28,7 +28,14 @@ On a utilisé la bibliotèque **codecarbon** qui nous permet de mesurer l'émiss
 
 > pip install **codecarbon**
 
-L'empreinte carbonne lors de l'execution de notre code est disponible dans le fichier 
+L'empreinte carbonne lors de l'execution de notre code sur 1440 frames est de :
+```
+Somme des émissions de CO₂ générées : 0.001215 kg
+```
+le temps d'execution est de : 
+```
+Somme du temps d'exécution : 295.6 secondes
+```
 
 ## Convertisseur png to jpeg :
 
