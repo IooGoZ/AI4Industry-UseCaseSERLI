@@ -178,3 +178,10 @@ sam2.1*
 test.ipynb
 *.sh
 
+.json
+.png
+.npy
+
+dataset/
+dataset-light/
+mask/
