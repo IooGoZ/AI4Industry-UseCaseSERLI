@@ -172,6 +172,8 @@ cython_debug/
 
 .json
 .png
+.npy
 
 dataset/
 dataset-light/
+mask/
