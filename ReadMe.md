@@ -50,7 +50,9 @@ Outils : OpenCV ou Meta SAM 2
     Ajout des fonctions d,ne tracking Code Carbon 
     Récupération du dataset complet 
     -> ça ne marche pas sur ce dataset, on ne sait pas vraiment pourquoi. Les images sont bien compressées en 480x848 mais celles en sortie sont en 1080x1920 et la segmentation ne fonctionne pas sur la route, les points semblent être décalés lors de la segmentation
-    Après avoir modifié les hypers paramètres plusieurs fois et fait plusieurs entrainements de modèle, notre meilleur résultat est de 31%. Il semblerait donc que notre méthode de segmentation ne soit pas la meilleure pour résoudre ce problème. 
+    Après avoir modifié les hypers paramètres plusieurs fois et fait plusieurs entrainements de modèle, notre meilleur résultat est de 31%. Il semblerait donc que notre méthode de segmentation ne soit pas la meilleure pour résoudre ce problème.
+
+    Résultat obtenu : output.png
 
 - Jour 5 :
       Présentation : comment l’utilisateur va s’en servir et pourquoi : utile pour pilote/ingénieur de course pour voir où sont ses erreurs et ainsi les corriger 
